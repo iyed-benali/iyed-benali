@@ -16,6 +16,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iyed-benali&show_icons=true&locale=en&layout=compact" alt="iyed-benali" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iyed-benali&show_icons=true&locale=en" alt="iyed-benali" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iyed-benali&" alt="iyed-benali" /></p>
